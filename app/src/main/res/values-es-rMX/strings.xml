@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="number1">Número 1</string>
+    <string name="number2">Número 2</string>
+    <string name="result">Resultado</string>
+    <string name="add">Suma</string>
+    <string name="rest">Resta</string>
+    <string name="multiplication">Multiplicación</string>
+    <string name="module">Módulo</string>
+    <string name="division">División</string>
+    <string name="init">0.0</string>
+</resources>
